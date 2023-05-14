@@ -52,3 +52,14 @@ pnpm run dev
 ```bash
 pnpm run build
 ```
+
+### development for ui
+
+In the root of this project.  
+
+```bash
+cd packages/ui
+pnpm run dev:ui
+```
+
+Then, you can view the interface in your browser.  
