@@ -1,4 +1,4 @@
-# vite+react figma plugin
+# figma-plugin-vite-react
 
 ## File Structure
 
@@ -52,5 +52,3 @@ pnpm run dev
 ```bash
 pnpm run build
 ```
-# figma-plugin-vite-react
-# figma-plugin-vite-react
